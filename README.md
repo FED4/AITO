@@ -1,7 +1,7 @@
 # AITO
 
 领袖们，欢迎加入AITO，chatGPT建议我们举行研讨会和讲座，分享最新的人工智能和深度学习技术，与业界专家和学者交流。举办黑客马拉松活动，鼓励开发人员一起创造新的开源项目。举办开源软件展，展示开源社区的成果和进展。
-复现请参考[]
+复现请参考[promises.aito](https://github.com/FED4/AITO/blob/main/promises.aito)
 
 请在[issues/suggestion](https://github.com/FED4/AITO/labels/suggestion)中提出活动建议。
 
